@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- No capítulo de mapas, adicione a KEY aqui -->
+
+    <!--gerador do SHA1: 42:56:B2:D1:F6:7F:74:DE:A2:D8:28:2A:AA:B0:BA:04:BE:B1:07:3 -->
+    <string name="API_KEY">AIzaSyBXVg35d_iRFmx45O9WzIX2QVanzDanlk0</string>
+</resources>
